@@ -1,0 +1,246 @@
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+hr {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-12.png) repeat-x 0 0;
+    border: 0;
+    width: 80%;
+}
+
+/*  Header  */
+header {
+	background-color: #10441c;
+}
+
+header ul li.margin {
+	margin-right: 5%;
+}
+
+header ul li:hover {
+	background-color: #fff;
+}
+
+header ul li a {
+	color: #fff;
+}
+
+header ul li a:hover {
+	color: #000;
+}
+
+header div.languages {
+	float: right;
+}
+
+header div.languages ul {
+	margin-top: -40px;
+}
+
+header div.languages ul li a.active {
+	background-color: #fff;
+	color: #000;
+}
+
+/*  Carousel  */
+.carousel .carousel-inner .carousel-item img {
+	height: 95vh;
+}
+
+/*  Main  */
+main .container h1,
+main .container p {
+	text-align: center;
+}
+
+main .container h1 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+main .container p {
+	margin-bottom: 50px;
+}
+
+main .container .card-deck .card-1,
+main .container .card-deck .card-2,
+main .container .card-deck .card-3,
+main .container .card-deck .card-4,
+main .container .card-deck .card-5,
+main .container .card-deck .card-6 {
+	width: 18rem;
+	height: 18rem;
+	margin-bottom: 80px;
+	border-radius: 18rem;
+	color: #fff;
+}
+
+main .container .card-deck .card-1 {
+	background: url(img/Kri2.png) no-repeat;
+	background-size: 28rem 20rem;
+}
+main .container .card-deck .card-2 {
+	background: url(img/Kri3.jpg) no-repeat;
+	background-size: 23rem 18rem;
+}
+
+main .container .card-deck .card-3 {
+	background: url(img/Kri4.jpg) no-repeat;
+	background-size: 23rem 18rem;
+}
+
+main .container .card-deck .card-4 {
+	background: url(img/Kri5.jpg) no-repeat;
+	background-size: 23rem 18rem;
+}
+
+main .container .card-deck .card-5 {
+	background: url(img/Kri1.png) no-repeat;
+	background-size: 23rem 18rem;
+}
+
+main .container .card-deck .card-6 {
+	background: url(img/Kri6.jpg) no-repeat;
+	background-size: 23rem 18rem;
+}
+
+main .container .card-deck .card:hover {
+	text-decoration: none;
+}
+
+main .container .card-deck .card-margin {
+	margin-right: 100px;
+}
+
+main .container .card-deck .card .card-body h5 {
+	text-align: center;
+}
+
+main .container button {
+	margin-left: 44%;
+	margin-bottom: 50px;
+}
+
+main .container-fluid {
+	text-align: center;
+	background-color: rgba(0, 175, 59, 0.3);
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+main .container-fluid table{
+	margin: auto;
+	width: 30%;
+}
+
+main .container-fluid table tr td input {
+	margin-bottom: 20px;
+	height: 10%;
+	border-radius: 0;
+}
+
+/*  Footer  */
+footer {
+	background-color: #10441c;
+}
+
+footer .social a {
+	width: 50px;
+	height: 50px;
+}
+
+footer .social a.fa:hover {
+	text-decoration: none;
+	color: ;
+}
+
+footer .social a.fa-facebook {
+	background-color: #314b68;
+}
+
+footer .social a.fa-facebook:hover {
+	text-decoration: none;
+	background-color: #5585ba;
+	color: #fff;
+}
+
+footer .social a.fa-instagram:hover {
+	text-decoration: none;
+	color: #fff;
+}
+
+footer .social a.fa-snapchat-ghost:hover {
+	text-decoration: none;
+	color: #fff;
+}
+/*  Glyph  */
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+	background: #3B5998;
+	color: white;
+}
+
+.fa-twitter {
+	background: #55ACEE;
+	color: white;
+}
+.fa-instagram {
+	background: #125688;
+	color: white;
+}
+
+.fa-snapchat-ghost {
+	background: #fffc00;
+	color: white;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+/*  Button  */
+#toTop {
+	margin-top: 15px;
+	float: right;
+	width: 100px;
+	border: 1px solid #ccc;
+	border-radius: 15px;
+	background: #f7f7f7;
+	text-align: center;
+	padding: 5px;
+	cursor: pointer;
+	display: none;
+	color: #333;
+	font-size: 11px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
